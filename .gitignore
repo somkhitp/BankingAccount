@@ -10,7 +10,3 @@
 # Ignore .metadata/ directory
 .metadata/
 .metadata/.plugins/
-
-# Ignore /bin/ directory
-/bin/
-bin/BankAccount/
