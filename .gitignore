@@ -8,7 +8,7 @@
 .DS_Store
 
 # Ignore .metadata/ directory
-.metadata/
+.metadata/*
 
 # Ignore /bin/ directory
-/bin/
+/bin/*
