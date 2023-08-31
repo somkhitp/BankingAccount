@@ -4,7 +4,8 @@
 # Ignore IDE-specific files and directories
 .project
 .settings/
-.metadata/
+.metadata/*/*
+/bin/
 .classpath
 .DS_Store
 .DS_Store
