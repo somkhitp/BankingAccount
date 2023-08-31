@@ -18,6 +18,8 @@ BankAccount/bin/
 src/.DS_Store
 src/module-info.java
 
-# Ignore from BankAccount
-BankAccount/.DS_Store
-BankAccount/module-info.java
+# Ignore System files
+.DS_Store
+
+# Ignore Java Module Information
+module-info.java
