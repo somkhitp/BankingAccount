@@ -7,6 +7,8 @@
 .classpath
 .DS_Store
 
-# Ignore entire directories and paths
-/bin/
+# Ignore .metadata/ directory
 .metadata/
+
+# Ignore /bin/ directory
+/bin/
