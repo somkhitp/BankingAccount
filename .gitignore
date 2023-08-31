@@ -13,3 +13,11 @@
 
 # Ignore /bin/
 BankAccount/bin/
+
+# Ignore from src folder
+src/.DS_Store
+src/module-info.java
+
+# Ignore from BankAccount
+BankAccount/.DS_Store
+BankAccount/module-info.java
