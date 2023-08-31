@@ -5,7 +5,7 @@
 .project
 .settings/
 .metadata/*/*
-/bin/
+/bin/*/*
 .classpath
 .DS_Store
 .DS_Store
